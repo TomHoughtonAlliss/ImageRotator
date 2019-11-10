@@ -1,0 +1,6 @@
+image_title image.png
+percentage_alpha_decrease 0.5
+final_image_width 400
+final_image_height 400
+degree_increase 30
+rotate_left True
